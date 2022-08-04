@@ -13,6 +13,8 @@ int main() {
   cout << "Hola mundo" << endl;
   cout<<"Hola mundo 2"<<endl;
   cout<<"Todo bien?, Todo correcto?"<<endl;
+  cout<<"Hola mundo 4"<<endl;
+  
   int opcion = 0;
   do {
     // Mostramos las instrucciones
