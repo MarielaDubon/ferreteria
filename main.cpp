@@ -7,9 +7,11 @@
 #include "Pega3.h"
 #include "Ventas.h"
 #include "Mostrar.h"
+#include "Creditos.h"
 
 using namespace std;
 int main() {
+
   int opcion = 0;
   do {
     // Mostramos las instrucciones
